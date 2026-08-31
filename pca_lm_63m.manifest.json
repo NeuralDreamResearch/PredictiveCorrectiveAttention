@@ -1,0 +1,73 @@
+{
+  "file": "pca_lm_63m.pt",
+  "total_bytes": 255241489,
+  "sha256": "fb4dd3ad3eae76568a67d26fc4c7b3c9a9d19ec91ef4d6996c71551aa02be749",
+  "part_bytes": 20971520,
+  "parts": [
+    {
+      "name": "pca_lm_63m.part000",
+      "bytes": 20971520,
+      "sha256": "f5f3a00e4f599d062c44e6ba7ebb93e4d28db75d09ed40957c83622209129495"
+    },
+    {
+      "name": "pca_lm_63m.part001",
+      "bytes": 20971520,
+      "sha256": "7d4bd93483abbb49aa8b59f066afa988c2ba0df7961fe677f9f06b2d4228cee7"
+    },
+    {
+      "name": "pca_lm_63m.part002",
+      "bytes": 20971520,
+      "sha256": "ded678ea11c71bd2eba617cdf8f25f560ff291c7bdb53a294e4704a99094d809"
+    },
+    {
+      "name": "pca_lm_63m.part003",
+      "bytes": 20971520,
+      "sha256": "fbdc756f574f3a9402b345a702abe521412737cb71a34b8243f7e6ec729db6d9"
+    },
+    {
+      "name": "pca_lm_63m.part004",
+      "bytes": 20971520,
+      "sha256": "0ad0674b1ba84c722bbcbb53a8f86955dc9681a248518d466ee73d6d13cb4bb4"
+    },
+    {
+      "name": "pca_lm_63m.part005",
+      "bytes": 20971520,
+      "sha256": "5518a6791d4dbbc41955bf1de350ab33fc93a78be746be46832e1e760209d5b5"
+    },
+    {
+      "name": "pca_lm_63m.part006",
+      "bytes": 20971520,
+      "sha256": "9088bc84f980b01e243741eedcc52e4197654684f7ff3c0cd5637b18f335ffe5"
+    },
+    {
+      "name": "pca_lm_63m.part007",
+      "bytes": 20971520,
+      "sha256": "8ff69c51afc8b692a43b6b9d7eeda8ec03f72d8261bf172e830b1cea7e9e6f22"
+    },
+    {
+      "name": "pca_lm_63m.part008",
+      "bytes": 20971520,
+      "sha256": "2e07d160d999bcb3c19ba0beb38c702595f23bd9cd38879e18ed37cd1c2c94a4"
+    },
+    {
+      "name": "pca_lm_63m.part009",
+      "bytes": 20971520,
+      "sha256": "ecfbc0daf82ea584ecaa186f35d780989002810bf388c66450cf1dce70abf585"
+    },
+    {
+      "name": "pca_lm_63m.part010",
+      "bytes": 20971520,
+      "sha256": "c7ec3d57718ccaecf59e189c94c3435cd2054dbd38708fac5c39c56bce4ae30f"
+    },
+    {
+      "name": "pca_lm_63m.part011",
+      "bytes": 20971520,
+      "sha256": "4d815a268d1448fe8ba7a82c23600b4f3c3584f17cce165417973e745f245f3e"
+    },
+    {
+      "name": "pca_lm_63m.part012",
+      "bytes": 3583249,
+      "sha256": "06d33a5ae5296998c33d73c3307f31275b4fdcaa57a5eba0c6e53e7bf1ecb17d"
+    }
+  ]
+}
